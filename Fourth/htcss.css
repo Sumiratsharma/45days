@@ -1,0 +1,26 @@
+*{
+            margin: 0;
+            padding: 0;
+        }
+.green{
+            background-color: green;
+            color: white;
+            padding: 20px;
+            margin: 20px;
+        }
+         
+        .blue{
+            background-color: blue;
+            color: white;
+            padding: 20px;
+            margin: 20px;
+        }
+       
+        .h1{
+            color: red;
+            margin: 20px;
+        }
+        .ruler{
+            border: 2px solid black;
+            margin: 20px;
+        }
